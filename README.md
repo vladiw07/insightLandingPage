@@ -7,7 +7,7 @@ A modern, responsive **React + Tailwind CSS** landing page prototype for **Insig
 ## 🔗 Live Demo
 
 Check it out here:  
-🔗 [Live Demo](insight-landing-page-mu.vercel.app)
+🔗 [Live Demo](https://insight-landing-page-git-main-vladiw07s-projects.vercel.app/)
 
 ---
 
